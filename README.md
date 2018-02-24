@@ -1,4 +1,4 @@
-# Victor Hugo
+# CDN By Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
 
